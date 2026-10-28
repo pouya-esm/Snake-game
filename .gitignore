@@ -1,0 +1,16 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse project metadata (local machine paths, not useful to share)
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
